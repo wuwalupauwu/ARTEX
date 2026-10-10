@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Autumn-27/artex/db"
-	"github.com/Autumn-27/artex/guard"
-	"github.com/Autumn-27/artex/intercept"
-	"github.com/Autumn-27/artex/llmrec"
+	"github.com/wuwalupauwu/Theresa/db"
+	"github.com/wuwalupauwu/Theresa/guard"
+	"github.com/wuwalupauwu/Theresa/intercept"
+	"github.com/wuwalupauwu/Theresa/llmrec"
 	"github.com/Autumn-27/norma/llm"
 )
 
